@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1492250718 source:h:\大二下数据结构上机作业\通讯网络3.0\graph.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	"Graph.h"
+	<stdlib.h>
+
+1492250363 h:\大二下数据结构上机作业\通讯网络3.0\graph.h
+	<iostream>
+
+1492250363 source:h:\大二下数据结构上机作业\通讯网络3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Graph.h"
+
+1492250720 source:i:\通讯网络4.1\graph.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	"Graph.h"
+	<stdlib.h>
+
+1492250364 i:\通讯网络4.1\graph.h
+	<iostream>
+
+1492250364 source:i:\通讯网络4.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Graph.h"
+
+1492441940 source:c:\users\dell\desktop\network\graph.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	"Graph.h"
+	<stdlib.h>
+	<time.h>
+
+1492250364 c:\users\dell\desktop\network\graph.h
+	<iostream>
+
+1492433850 source:c:\users\dell\desktop\network\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"Graph.h"
+
+1492441942 source:h:\大二下数据结构上机作业\通讯网络4.1\graph.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	"Graph.h"
+	<stdlib.h>
+	<time.h>
+
+1492250364 h:\大二下数据结构上机作业\通讯网络4.1\graph.h
+	<iostream>
+
+1492433852 source:h:\大二下数据结构上机作业\通讯网络4.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"Graph.h"
+
